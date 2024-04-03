@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MoneyMe</string>
+    <string name="transportasi">Transportation</string>
+    <string name="belanja">Shopping</string>
+    <string name="kategori">Category</string>
+    <string name="pemasukan">Input</string>
+    <string name="pengeluaran">Expenses</string>
+    <string name="input_invalid">Input Invalid!</string>
+    <string name="bagikan">Share</string>
+    <string name="keterangan">Description</string>
+    <string name="tanggal">Date</string>
+    <string name="nominal">Nominal</string>
+    <string name="tentang_aplikasi">About App</string>
+    <string name="kembali">Back</string>
+    <string name="catat">Note</string>
+    <string name="intro">Hello Lestari! Welcome to MoneyMe, here is the time for you to start recording all your expenses and income anywhere and anytime! Transportation</string>
+    <string name="copyright">Hello, Welcome to Lestari!\\nTry to start calculating your income          and your expenses, so you know whether you are a frugal person? Have you recorded your finances today?      \\n\\nThis application was created for Assessment 1.\\n\\nCopyright © 2021 – 2024 Lestari.\\n      All rights reserved</string>
+</resources>

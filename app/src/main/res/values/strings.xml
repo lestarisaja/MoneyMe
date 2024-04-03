@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">MoneyMe</string>
+    <string name="intro">Hallo Lestari!\nSelamat datang di MoneyMe, disini saatnya kamu mulai mencatat
+    segala pengeluaran dan pemasukan kamu dimana saja dan kapan saja! </string>
+    <string name="transportasi">Transportasi</string>
+    <string name="belanja">Belanja</string>
+    <string name="kategori">Kategori</string>
+    <string name="pemasukan">Pemasukan</string>
+    <string name="pengeluaran">Pengeluaran</string>
+    <string name="input_invalid">Tidak boleh kosong!</string>
+    <string name="bagikan">Bagikan</string>
+    <string name="catat">Catat</string>
+    <string name="keterangan">Keterangan</string>
+    <string name="tanggal">Tanggal</string>
+    <string name="nominal">Nominal</string>
+    <string name="tentang_aplikasi">Tentang Aplikasi</string>
+    <string name="copyright">Hallo, Selamat Datang Lestari!\nCobalah untuk mulai menghitung pemasukan
+        dan pengeluaran anda, supaya anda tau apakah anda orang yang hemat? Sudah mencatatat keuangan anda hari ini?
+    \n\nAplikasi ini dibuat untuk Assessment 1.\n\nCopyright © 2021 – 2024 Lestari.\n
+    All rights reserved.</string>
+    <string name="kembali">Kembali</string>
+</resources>
