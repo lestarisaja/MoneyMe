@@ -235,18 +235,6 @@ fun GenderOption (label: String, isSelected: Boolean, modifier: Modifier) {
     }
 }
 
-private fun processData(
-    context: Context,
-    keterangan: String,
-    tanggal: String,
-    nominal: String,
-    kategori: String
-) {
-    // Lakukan proses penyimpanan atau pengiriman data sesuai kebutuhan
-    val message = "Keterangan: $keterangan\nTanggal: $tanggal\nNominal: $nominal\nKategori: $kategori"
-    shareData(context, message)
-}
-
 private fun shareData(context: Context, message: String) {
     val shareIntent = Intent(Intent.ACTION_SEND).apply {
         type = "text/plain"
